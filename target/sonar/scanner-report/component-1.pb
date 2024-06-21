@@ -1,0 +1,1 @@
+Example of basic Maven project :R&org.sonarqube:sonarscanner-maven-basic
